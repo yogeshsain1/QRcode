@@ -1,0 +1,18 @@
+{
+  "name": "qrcode.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yogeshsain1",
+  "authors": [
+    "Yogesh Sain"
+  ],
+  "description": "Cross-browser QRCode generator for javascript",
+  "main": "qrcode.js",
+  "ignore": [
+    "bower_components",
+    "node_modules",
+    "index.html",
+    "index.svg",
+    "jquery.min.js",
+    "qrcode.min.js"
+  ]
+}
